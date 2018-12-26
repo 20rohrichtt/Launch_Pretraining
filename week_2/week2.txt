@@ -1,0 +1,11 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1fWwtWIt8_aYi_yBkww4NskUMWrrL3f9o9kndIaIrHAQ/edit?usp=sharing
+----
+
+Week 2 Project:
+    Create a React app in your github repository using create-react-app. We won't spend a lot of time
+    covering it in class, so please look over a guide on html to get comfortable with it (I recommend https://www.w3schools.com/html/).
+    What will really be important for us is html attributes for user input, such as "input" and "button".
+    For this week, try to craft the app "skeleton" out of html-- try to add a navbar, space for content in the middle,
+    and a bottom footer (if you are feeling crazy you can dabble in styling). We will worry about adding functionality next week!

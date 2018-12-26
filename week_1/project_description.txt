@@ -1,0 +1,6 @@
+Launch Pretraining Project Description
+----
+A small indie company called "Apple" has contracted you to help in the development of their new
+state-of-the-art food service platform called "Foodie Finder". The application will allow users log in,
+search for food in their area by category (italian, mexican, etc...), and then save their restauarants to
+their account that they "favorite".

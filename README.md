@@ -8,7 +8,7 @@ Official Repository for Launch Pretraining 2019: https://github.com/20rohrichtt/
 
 ## Class Slides
 
-Class slides can be found in the follow Google Drive folder: https://drive.google.com/drive/u/0/folders/11Kxpb4cy1V4VD6Clq3kcD8w1ScEyteLf
+Class slides can be found in the follow Google Drive folder: https://drive.google.com/open?id=1If070F-lfM8ZNZ1m9sggefbcKIR5tfL3KcQTBo9EIdA
 
 ## Class Format
 

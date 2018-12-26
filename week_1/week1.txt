@@ -1,0 +1,10 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1If070F-lfM8ZNZ1m9sggefbcKIR5tfL3KcQTBo9EIdA/edit?usp=sharing
+----
+Sign up for a group here: https://docs.google.com/spreadsheets/d/1JJXRphcq1Sf4mOHzH8R8NmryMqfmO9p5u1zsKoDnQfg/edit?usp=sharing
+----
+Week 1 Project:
+    This first week's exercise will be to create a github account, have one member in your group create a repository for our course-long project, and then have each member
+    of the group clone the repository, edit the README.md file by adding their name to it, and push the changes to github.
+    This repository will serve as the foundation for which we build out our project for the rest of the class!

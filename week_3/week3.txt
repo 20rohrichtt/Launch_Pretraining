@@ -1,0 +1,12 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/13g_A5EsNOwRjHGs_IOC5vXc7iB79r6WMCvF4UvZI2xI/edit?usp=sharing
+----
+
+Week 3 Project:
+    Now that we know how to manage state from user input, create a text field in the main component of the app 
+    that allows users to enter  what type of food they are in the mood for (italian, mexican etc.). Have this update an entry in 
+    state called "foodType". In addition, add a "submit" button adjacent to the user input that, on click, will check if the 
+    "foodType" entry in state is a valid input (not empty, and not mispelled--one way to accomplish this is to create an array
+    of types of food and see if the user input is within the array)--if the input is not valid, push an alert to the screen that says
+    "Invalid Entry!" (this might be helpful: https://www.w3schools.com/jsref/met_win_alert.asp)
