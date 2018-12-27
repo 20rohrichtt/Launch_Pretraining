@@ -1,0 +1,15 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1MPQtka_NtGAlahVNyVAvqVqC3lygT5v75Gx7AEk_1Bc/edit?usp=sharing
+----
+
+Week 6 Project:
+
+This week is all about making your all look pretty! At this point all the functionality *should*
+be in place, so take some artistic liberty to clean up the design, using any node_module design library 
+(it doesn't have to be limited to anything we discussed in class). In addition, next week each group will
+be doing presentations on their project--plan to talk for about 5 minutes, talking about what libraries and technologies
+your group used, potential faults in your application, what you would like to add if you had more time, etc...
+Although this may seem redundant as many of our groups will have used the same technologies,
+this is a good opportunity to practice presenting on technical information in a professional setting.
+   

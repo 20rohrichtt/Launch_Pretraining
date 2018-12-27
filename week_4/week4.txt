@@ -1,0 +1,13 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1yBwrZEOemXxuG8Ywkq_cy9GXFZiSZ8G17V0s_M4WaZ4/edit?usp=sharing
+----
+
+Week 4 Project:
+   From week 3, we should have the ability for users to store a type of food that they want to eat in state.
+   Now, we are going to modify the "submit" button so that once clicked, it will return a list of restaurants
+   in the users area for their specified type of food. We will be using google's place api to accomplish this:
+   https://developers.google.com/places/web-service/search . In order to use this, you first need to get a search api key
+   from google. The implementation of this is left a bit vague because there are multiple ways to accomplish this! The page should then
+   display a list of restaurants nearby (hint: use the map function!). The user should be able to "favorite" selected items
+   in this list.

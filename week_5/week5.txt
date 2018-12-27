@@ -1,0 +1,9 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/158_jjXJan-uqsRxBduUFNXgcJarNUN1N0dfhE6CwSIQ/edit?usp=sharing
+----
+
+Week 5 Project:
+   Building off of week 4, we will now be storing the user's favorited items in the Firebase Database.
+   Modify your code so that your list of "favorited" user items is stored (i.e, you can refresh the page and they stay there!)
+   Once you accomplish this, post your website online using firebase hosting!
